@@ -1,4 +1,4 @@
-<h1 align="center" color="red">Welcome to Adarsh's Github Profile</h1>
+<h1 align="center">Welcome to <a href="https://adarshtyagi.netlify.com">Adarsh's</a> Github Profile</h1>
 
 - 👋 Hi, I’m Adarsh Tyagi
 - 👀 I’m interested in Python, Web development, Machine Learning, Physics and History.
