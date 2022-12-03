@@ -1,10 +1,10 @@
 <h3 align="center">It's not magic, it's talent and sweat</h3>
 
-- 👋 Hi, I’m Adarsh Tyagi
-- 👀 I’m interested in Python, Web Development, Physics and History.
-- 🌱 I’m currently learning Full Stack Web development and Machine learning.
+- 👋 Hi, I’m Adarsh Tyagi currently working as a FullStack Developer.
+- 👀 I’m interested in FullStack Development, Machine Learning, Physics and History.
+- 🌱 I’m currently working on getting better than yesterday.
 - :golfing: I love playing cricket and badminton.
-- :pager: For more information about me: https://adarshtyagi.netlify.com/
+- :pager: To know me better: https://adarshtyagi.netlify.com/
 
 <div align="center">
 <h3>Connect with me:</h3>
