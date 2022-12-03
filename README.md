@@ -1,4 +1,3 @@
-<h1 align="center">Welcome to <a href="https://adarshtyagi.netlify.com">Adarsh's</a> Github Profile</h1>
 <h3 align="center">It's not magic, it's talent and sweat</h3>
 
 - 👋 Hi, I’m Adarsh Tyagi
