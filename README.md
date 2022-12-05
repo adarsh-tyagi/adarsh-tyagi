@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Adarsh Tyagi currently working as a FullStack Developer.
 - 👀 I’m interested in FullStack Development, Machine Learning, Physics and History.
-- 🌱 I’m currently working on getting better than yesterday.
-- :golfing: I love playing cricket and badminton.
+- 🌱 I’m currently working on getting better in DSA and System Design.
+- :golfing: I love playing Cricket, Badminton and Volleyball.
 - :pager: To know me better: https://adarshtyagi.netlify.com/
 
 <div align="center">
