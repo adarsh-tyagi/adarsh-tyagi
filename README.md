@@ -1,4 +1,4 @@
-<h3 align="center">It's not magic, it's talent and sweat</h3>
+<!-- <h3 align="center">It's not magic, it's talent and sweat</h3> -->
 
 - 👋 Hi, I’m Adarsh Tyagi currently working as a FullStack Developer.
 - 👀 I’m interested in FullStack Development, Machine Learning, Physics and History.
