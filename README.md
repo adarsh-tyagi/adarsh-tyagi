@@ -1,6 +1,4 @@
-<!-- <h3 align="center">It's not magic, it's talent and sweat</h3> -->
-
-- 👋 Hi, I’m Adarsh Tyagi currently working as a FullStack Developer.
+<h1>👋 Hi, I’m Adarsh Tyagi, FullStack Developer</h1>
 - 👀 I’m interested in FullStack Development, Machine Learning, Physics and History.
 - 🌱 I’m currently working on getting better in DSA and System Design.
 - :golfing: I love playing Cricket, Badminton and Volleyball.
